@@ -2,7 +2,7 @@
 ### Hi there, I'm Rohit 👋
 ---
 
-<kbd><img src="readme_left.png" width=170px /> </kbd>
+<img src="readme_left.png" width=170px /> 
 
 I'm an undergraduate student at the Indian Institute of Technology, Kharagpur, with a keen interest in autonomous robotics and software development.
 
