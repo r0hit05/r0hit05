@@ -10,7 +10,9 @@ I've always loved maths and love solving algorithmic problems and optimizing sof
 
 
 😄 Pronouns: he/him <br>
-📫 How to reach me: rohitsutradhar311@gmail.com
+📫 How to reach me: rohitsutradhar311@gmail.com <br>
+📜 Here's my [CV](./Rohit_Sutradhar_Placements_Final.pdf)
+
 
 
 
